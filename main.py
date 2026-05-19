@@ -129,4 +129,4 @@ resultat.pack()
 
 affichage_temps = tk.Label(root, text="", font=font)
 affichage_temps.pack()
-root.mainloop ############################################################################################
+root.mainloop()
